@@ -22,3 +22,8 @@ Use conditional flows based on organization and environment names with separate 
 
 ## Usage
 Clone this repo and run the maven install command: `mvn -Pyour-profile-name install`
+
+## Copyright and License
+
+This material is Copyright (c) 2016-2018 Google, Inc.
+and is licensed under the [Apache 2.0 License](LICENSE).
