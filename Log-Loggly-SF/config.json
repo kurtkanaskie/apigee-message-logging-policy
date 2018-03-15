@@ -1,0 +1,90 @@
+{
+    "configurations": [
+        {
+            "name": "2016-test",
+            "policies": [
+                {
+                    "name": "ML-Loggly.xml",
+                    "tokens": [
+                        {
+                            "xpath": "/MessageLogging/Syslog/Host",
+                            "value": "logs-01-loggly.com"
+                        },
+                        {
+                            "xpath": "/MessageLogging/Syslog/Port",
+                            "value": "514"
+                        }
+                    ]
+                }
+            ],
+            "proxies": [],
+            "targets": []
+        },
+        {
+            "name": "2016-prod",
+            "policies": [
+                {
+                    "name": "ML-Loggly.xml",
+                    "tokens": [
+                        {
+                            "xpath": "/MessageLogging/Syslog/Host",
+                            "value": "logs-02-loggly.com"
+                        },
+                        {
+                            "xpath": "/MessageLogging/Syslog/Port",
+                            "value": "524"
+                        }
+                    ]
+                }
+            ],
+            "proxies": [],
+            "targets": []
+        },
+        {
+            "name": "training-test",
+            "policies": [
+                {
+                    "name": "ML-Loggly.xml",
+                    "tokens": [
+                        {
+                            "xpath": "/MessageLogging/Syslog/Host",
+                            "value": "logs-01-loggly.com"
+                        },
+                        {
+                            "xpath": "/MessageLogging/Syslog/Port",
+                            "value": "514"
+                        }
+                    ]
+                }
+            ],
+            "proxies": [],
+            "targets": []
+        },
+        {
+            "name": "training-prod",
+            "policies": [
+                {
+                    "name": "ML-Loggly.xml",
+                    "tokens": [
+                        {
+                            "xpath": "/MessageLogging/Syslog/Host",
+                            "value": "logs-02-loggly.com"
+                        },
+                        {
+                            "xpath": "/MessageLogging/Syslog/Port",
+                            "value": "524"
+                        }
+                    ]
+                }
+            ],
+            "proxies": [],
+            "targets": []
+        },
+        {
+            "name": "local-aio-test",
+            "policies": [],
+            "proxies": [],
+            "targets": []
+        }
+    ]
+}

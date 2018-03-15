@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <Policies>
+        <VersionInfo resourceName="ML-Loggly" version="5dfcb57c97de19e249952172ead2f856eb27115fb2e3b33e635a57186f8b180d686c6c71074f8ce195c9c2f3ce4215af7cf433233df62d4114e5e332b68ad93d"/>
+    </Policies>
+    <ProxyEndpoints/>
+    <Resources/>
+    <SharedFlows>
+        <VersionInfo resourceName="default" version="4d263af9e0e882f8e58b67da15422f061fc7fd7bab29f2412342a05d64d3d965d036941e9d82a58b0bb23389ada78d0dce2f718a0f9d8acb1925652d3206d205"/>
+    </SharedFlows>
+    <TargetEndpoints/>
+</Manifest>

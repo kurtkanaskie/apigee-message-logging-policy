@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <Policies>
+        <VersionInfo resourceName="ML-Loggly-kkanaskie2016-prod" version="a5bc303cbc5f64860cf01b32b3340c7975f689e2224192e21117a0938c679a33e81976b83311ab6152d3e1c97fb742f0f7597a8e80ba47ef78bc494f2e00d427"/>
+        <VersionInfo resourceName="ML-Loggly-kkanaskie2016-test" version="f806a67143699e6714282bb82714c5cf7c01d6505806be81e6fb147ad7b21fdce6d833b4069d966cc422cd4573fb3b721e904c76b10fb122fcdbe88148d6ad3e"/>
+        <VersionInfo resourceName="ML-Loggly-kurtkanaskietrainer-trail-prod" version="f80bf8bb56178cfb94dc31420c106f46dc74d6fc166369b7764bff5257eb6ecb844e64d84f7c3296faee55c5fd59423eb5e641b27b8a20bb5d356a349adb9efd"/>
+        <VersionInfo resourceName="ML-Loggly-kurtkanaskietrainer-trail-test" version="ad25bde4905840ab40910000e127f55c212bd9e4401452a12322eb2cd5af92ecb5b3c2f579b5dd81a04a7008f8d08d64cc7567fdfca13c2ea1a2965cd87723be"/>
+    </Policies>
+    <ProxyEndpoints/>
+    <Resources/>
+    <SharedFlows>
+        <VersionInfo resourceName="default" version="bad6c8faabeca28091e264424dd6e1ede96366d3d462a6da187434f1ea03f22c4ec4d0537609cada1c392293a82ef0923137eab456ec1695996f6b635d11b8b2"/>
+    </SharedFlows>
+    <TargetEndpoints/>
+</Manifest>

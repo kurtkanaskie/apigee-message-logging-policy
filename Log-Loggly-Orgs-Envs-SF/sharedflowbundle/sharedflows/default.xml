@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SharedFlow name="default">
+    <Step>
+        <Condition>(organization.name = "kkanaskie2016") and (environment.name = "test")</Condition>
+        <Name>ML-Loggly-kkanaskie2016-test</Name>
+    </Step>
+    <Step>
+        <Condition>(organization.name = "kkanaskie2016") and (environment.name = "prod")</Condition>
+        <Name>ML-Loggly-kkanaskie2016-prod</Name>
+    </Step>
+    <Step>
+        <Condition>(organization.name = "kurtkanaskietrainer-trail") and (environment.name = "test")</Condition>
+        <Name>ML-Loggly-kurtkanaskietrainer-trail-test</Name>
+    </Step>
+    <Step>
+        <Condition>(organization.name = "kurtkanaskietrainer-trail") and (environment.name = "prod")</Condition>
+        <Name>ML-Loggly-kurtkanaskietrainer-trail-prod</Name>
+    </Step>
+</SharedFlow>

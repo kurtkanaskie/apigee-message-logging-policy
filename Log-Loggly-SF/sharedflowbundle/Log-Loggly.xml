@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SharedFlowBundle revision="1" name="Log-Loggly">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1521119212991</CreatedAt>
+    <CreatedBy>kurtkanaskie@google.com</CreatedBy>
+    <Description>undefined</Description>
+    <DisplayName>Log-Loggly</DisplayName>
+    <LastModifiedAt>1521123762762</LastModifiedAt>
+    <LastModifiedBy>kurtkanaskie@google.com</LastModifiedBy>
+    <ManifestVersion>44401b62bab0b7b8cb09e96bd9f8c64852d51d9473c20c12f88c34bba1ec9ece58d9fe8cdb73ca5ffdea5f5f4c4eeefd551ecbcac9172f04d21ed697937a034b</ManifestVersion>
+    <Policies>
+        <Policy>ML-Loggly</Policy>
+    </Policies>
+    <Resources/>
+    <Spec></Spec>
+    <subType>SharedFlow</subType>
+    <SharedFlows>
+        <SharedFlow>default</SharedFlow>
+    </SharedFlows>
+</SharedFlowBundle>
